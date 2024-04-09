@@ -1,2 +1,2 @@
 # action-repo
-tests
+test
