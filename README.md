@@ -43,4 +43,4 @@ python run.py
 * Paste the generated URL in webhooks tab in Github
 
 
-Test Commit
+Test Commits
