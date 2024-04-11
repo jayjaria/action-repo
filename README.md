@@ -1,2 +1,2 @@
 # action-repo
-Moviess
+Movie
